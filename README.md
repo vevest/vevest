@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vevest
 - 👀 I’m interested in learning new programming languages, being creative and creating 
 - 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on any thinkg really!
+- 💞️ I’m looking to collaborate on any thing really!
 - 📫 How to reach me is by sending me a message here
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I play Musical theater in my sparetime
